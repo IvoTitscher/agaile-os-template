@@ -27,12 +27,12 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/yourusername/template.git"
+    "url": "https://github.com/IvoTitscher/agaile-os-template.git"
   },
   "bugs": {
-    "url": "https://github.com/yourusername/template/issues"
+    "url": "https://github.com/IvoTitscher/agaile-os-template/issues"
   },
-  "homepage": "https://github.com/yourusername/template#readme",
+  "homepage": "https://github.com/IvoTitscher/agaile-os-template#readme",
   "devDependencies": {
     "chalk": "^5.3.0",
     "commander": "^11.0.0",

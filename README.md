@@ -1,6 +1,6 @@
 # Template Project
 
-This project template is powered by **[Agaile-OS](https://github.com/yourusername/agaile-os)** - an Agent-Enhanced Development Operating System that transforms your AI assistants into an intelligent development team.
+This project template is powered by **[Agaile-OS](https://github.com/IvoTitscher/agaile-os-template)** - an Agent-Enhanced Development Operating System that transforms your AI assistants into an intelligent development team.
 
 ## Quick Start
 
@@ -56,9 +56,9 @@ your-project/
 
 ## Support
 
-- 📖 [Full Documentation](https://github.com/yourusername/agaile-os)
-- 🐛 [Report Issues](https://github.com/yourusername/agaile-os/issues)
-- 💬 [Discussions](https://github.com/yourusername/agaile-os/discussions)
+- 📖 [Full Documentation](https://github.com/IvoTitscher/agaile-os-template)
+- 🐛 [Report Issues](https://github.com/IvoTitscher/agaile-os-template/issues)
+- 💬 [Discussions](https://github.com/IvoTitscher/agaile-os-template/discussions)
 
 ---
 
