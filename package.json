@@ -1,0 +1,45 @@
+{
+  "name": "template",
+  "version": "1.0.0",
+  "description": "Template project powered by Agaile-OS - Agent-Enhanced Development Operating System",
+  "main": "index.js",
+  "scripts": {
+    "setup": "bash .agaile-os/setup.sh",
+    "init": "bash .agaile-os/init.sh",
+    "validate": "node .agaile-os/scripts/validate.js",
+    "agent:config": "node .agaile-os/scripts/configure-agents.js",
+    "agent:test": "node .agaile-os/scripts/test-agent.js",
+    "docs:build": "node .agaile-os/scripts/build-docs.js",
+    "upgrade": "node .agaile-os/scripts/upgrade.js"
+  },
+  "keywords": [
+    "ai",
+    "development",
+    "automation",
+    "agents",
+    "claude",
+    "cursor",
+    "hil",
+    "workflow",
+    "devops"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/template.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yourusername/template/issues"
+  },
+  "homepage": "https://github.com/yourusername/template#readme",
+  "devDependencies": {
+    "chalk": "^5.3.0",
+    "commander": "^11.0.0",
+    "inquirer": "^9.2.0",
+    "js-yaml": "^4.1.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
